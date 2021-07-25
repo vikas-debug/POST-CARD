@@ -1,0 +1,78 @@
+body{
+background-color: hsl(233, 47%, 7%);
+}
+p{
+  font-family: 'Lexend Deca', sans-serif;
+
+
+}
+.top-div{
+  width: 1250px;
+  height: 500px;
+  background-color: hsl(244, 38%, 16%);
+  position: absolute;
+  left: 140px;
+  top: 120px;
+  right: 30px;
+  p
+}
+.violet{
+  color: hsl(277, 64%, 61%);
+}
+h1{
+  font-family: 'Inter', sans-serif;
+   color:  hsl(0, 0%, 100%);
+}
+.image{
+  width: 575px;
+  height: 500px;
+  float: right;
+}
+
+.content{
+  margin-left:120px;
+  display: inline-block;
+  margin-top: 100px;
+}
+.content1{
+
+  margin-left: 120px;
+  margin-right: 735px;
+  Font size: 15px;
+  color: hsla(0, 0%, 100%, 0.75);
+}
+.content2{
+  margin-left: 120px;
+  margin-top: 50px;
+   color: hsl(0, 0%, 100%);
+   display:inline-block;
+   font-family: 'Inter', sans-serif;
+
+}
+.companies{
+  margin-left: 120px;
+  color:hsla(0, 0%, 100%, 0.6);
+  display: inline-block;
+  position: absolute;
+  top: 350px;
+  left: 0px;
+  font-family: 'Lexend Deca', sans-serif;
+}
+.templates{
+  margin-left: 120px;
+  color:hsla(0, 0%, 100%, 0.6);
+  display: inline-block;
+  position: absolute;
+  top: 350px;
+  left: 180px;
+  font-family: 'Lexend Deca', sans-serif;
+}
+.queries{
+  margin-left: 120px;
+  color:hsla(0, 0%, 100%, 0.6);
+  display: inline-block;
+  position: absolute;
+  top: 350px;
+  left: 345px;
+  font-family: 'Lexend Deca', sans-serif;
+}
